@@ -19,7 +19,7 @@ For additional analysis such as spatial correlation run glm.m file for both the 
 The file dummy_signals.mat contains one of the synthetic signal used in the study. In the file, x is the clean signal and white_noise_dummy is the generated noise with varaince 100.  white_noise_dummy2 is the vector of noise with variance 10.
 
 For testing the proposed ARFIMA method on other synthetic signals, run generate_dummy.m 
-to simulate synthetic signal and observe the effect of ARFIMA filter. In this file, the varaince of noise can be modified.
+to generate random synthetic signal and observe the effect of ARFIMA filter. 
 
 
 
