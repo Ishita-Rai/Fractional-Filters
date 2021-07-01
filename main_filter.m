@@ -3,7 +3,7 @@ close all
 clc
 %% define variables
 n = 100; % number of brain regions
-m = 98*4; % number of datasets, 15 is the subject number and 4 the 4 different resting states
+m = 1*4; % number of datasets, 1 is the subject number and 4 the four different runs
 t = 1200; % number of data point in each time series
 fs = 1000/720; % sampling frequency = 1/TR where TR is the repetition time
 %% 
