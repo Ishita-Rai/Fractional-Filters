@@ -1,4 +1,4 @@
-# PlOS One Journal Submission
+# PLoS One Journal Submission
 
 Authors:
 
